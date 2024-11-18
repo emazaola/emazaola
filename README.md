@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis, GIS and remote sensing for application in agroecology, environment and rural development.
 - 🌱 I’m currently learning R ==> R-Spatial.
 - 💞️ I’m looking to collaborate on agroecology, environment and rural development.
-- 📫 How to reach me: gisarte03@gmail.com
+- 📫 How to reach me: emazaola@gisarte.com
 
 <!---
 emazaola/emazaola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
